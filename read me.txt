@@ -1,0 +1,40 @@
+Project Title: Sales Analysis Dashboard in Excel
+Submitted by: Joshwa Rajkumar
+Tools Used: Microsoft Excel 2013
+
+Project Summary:
+This project was intended to be done in Power BI, but due to hardware limitations on my laptop, I created a dynamic and interactive Sales Analysis Dashboard in Excel instead. The dashboard visualizes overall sales performance, top-performing products, regional comparisons, and monthly breakdowns using charts, slicers, and pivot tables.
+
+Features Included:
+
+KPI Tiles:
+Total Sales: $12,506,815.51
+Total Profit: $2,239,711.13
+Total Quantity Sold: 27,507 Nos
+Average Discount: 25%
+
+Filters for Interactivity:
+Region-wise (Central, East, South, West)
+Year-wise (2023, 2024, 2025)
+Segment-wise (Consumer, Corporate, Home Office)
+Monthly Breakdown (Jan to Dec)
+
+Charts & Visualizations:
+Sales Over Time: Line chart showing monthly trends across years
+Sales by Region: Column chart comparing regional performance
+Top 10 Products by Sales: Horizontal bar chart
+Top 10 Products by Profit: Horizontal bar chart
+
+Methods Used:
+Used Pivot Tables and Pivot Charts to summarize and visualize large datasets.
+Applied Slicers for multi-dimensional filtering and interactivity.
+Used Excel formulas for KPI metrics.
+Styled the dashboard to give a clean and professional report-like appearance.
+
+Challenges Faced:
+Power BI could not be used due to system constraints, so Excel was used creatively as an alternative.
+Ensured responsiveness by keeping data model light, and optimizing formulas and chart ranges.
+
+Conclusion:
+Despite the limitations, this project demonstrates strong data analysis and visualization skills using Excel. It delivers actionable insights in a user-friendly layout, mimicking the interactivity of a Power BI dashboard.
+
